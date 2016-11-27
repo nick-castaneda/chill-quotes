@@ -1,0 +1,27 @@
+{
+  "name": "chill-quotes",
+  "version": "1.0.0",
+  "description": "Library of chill quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick-castaneda/chill-quotes.git"
+  },
+  "keywords": [
+    "quotes",
+    "quote",
+    "chill",
+    "lyrics",
+    "rap",
+    "history"
+  ],
+  "author": "Nick Castaneda <npcastaneda@gmail.com> (http://nick-castaneda.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nick-castaneda/chill-quotes/issues"
+  },
+  "homepage": "https://github.com/nick-castaneda/chill-quotes#readme"
+}
